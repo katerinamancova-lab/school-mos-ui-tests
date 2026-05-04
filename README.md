@@ -34,8 +34,11 @@ tests/
 conftest.py
 pytest.ini
 requirements.txt
+```
 
 ## Результат выполнения
+
+Все тесты успешно проходят:
 
 <p align="center">
   <img src="allure-report.png" width="700"/>
