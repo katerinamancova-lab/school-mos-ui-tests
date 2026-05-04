@@ -37,4 +37,6 @@ requirements.txt
 
 ## Результат выполнения
 
-![Allure report](allure-report.png)
+<p align="center">
+  <img src="allure-report.png" width="700"/>
+</p>
