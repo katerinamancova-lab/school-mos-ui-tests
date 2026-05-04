@@ -34,3 +34,7 @@ tests/
 conftest.py
 pytest.ini
 requirements.txt
+
+## Результат выполнения
+
+![Allure report](allure-report.png)
